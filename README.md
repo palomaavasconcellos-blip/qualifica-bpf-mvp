@@ -47,7 +47,7 @@ O dataset utilizado é **sintético**, gerado com base nas regras operacionais r
 ## Como Executar
 
 ### Google Colab (recomendado)
-1. Acesse o notebook público: [link do Colab aqui após upload]
+1. Acesse o notebook público: [https://colab.research.google.com/github/palomaavasconcellos-blip/qualifica-bpf-mvp/blob/main/MVP_Qualifica_BPF_Classificacao_Risco.ipynb]
 2. Clique em `Ambiente de execução > Executar tudo`
 3. Nenhuma configuração adicional é necessária — os dados são carregados por URL
 
